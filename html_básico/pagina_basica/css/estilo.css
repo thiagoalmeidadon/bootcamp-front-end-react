@@ -1,0 +1,38 @@
+
+body {
+    background-color: darkgray;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#title {
+    color: chocolate;
+}
+
+.post-title {
+    color: cornflowerblue;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    text-decoration: overline;
+    font-transf
+    
+}
+
+.post {
+    background: darkgreen;
+    padding: 10px;
+    border: solid 3px crimson;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+
+.post-image {
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.listas {
+    list-style-type: "\1F44D";
+}
